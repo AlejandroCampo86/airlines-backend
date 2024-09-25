@@ -5,18 +5,18 @@ const productController = require('../controllers/productController');
 // Define the routes for product operations
 
 // Create a new product
-router.post('/products', productController.createProduct);
+router.post('/', productController.createProduct);
 
 // Get all products
-router.get('/products', productController.getAllProducts);
+router.get('/', productController.getAllProducts);
 
 // Get a product by SKU
-router.get('/products/:sku', productController.getProductBySKU);
+router.get('/:sku', productController.getProductBySKU);
 
 // Update a product by SKU
-router.put('/products/:sku', productController.updateProduct);
+router.put('/:sku', productController.updateProduct);
 
 // Delete a product by SKU
-router.delete('/products/:sku', productController.deleteProduct);
+router.delete('/:sku', productController.deleteProduct);
 
 module.exports = router;

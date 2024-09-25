@@ -3,13 +3,13 @@ const mongoose = require('mongoose');
 // Define the Product schema
 const productSchema = new mongoose.Schema({
     sku: { type: String, required: true, unique: true },
-    name: String,
-    description: String,
-    price: Number,
-    stock: Number,
-    category: String,
-    weight: Number,
-    dimensions: String,
+    name: { type: String, required: true },
+    description: { type: String, required: true },
+    price: { type: Number, required: true, min: 0 },
+    stock: { type: Number, required: true, min: 0 },
+    category: { type: String, required: true },
+    weight: { type: Number, required: true, min: 0 },
+    dimensions: { type: String, required: true }
 }, {
     timestamps: true, // Automatically adds createdAt and updatedAt fields
 });

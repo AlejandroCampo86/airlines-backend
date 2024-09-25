@@ -18,6 +18,7 @@ mongoose.connect(dbURI, {
 
 // Routes
 app.use('/api/crew', require('./routes/crew'));
+app.use('/api/products', require('./routes/productRoutes'));
 app.use('/api/aircraft', require('./routes/aircraft'));
 app.use('/api/passengers', require('./routes/passengers'));
 app.use('/api/sales', require('./routes/sales'));
