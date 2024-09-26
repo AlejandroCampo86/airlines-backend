@@ -1,0 +1,72 @@
+[
+  {
+    "name": "John Doe",
+    "role": "Flight Attendant",
+    "employeeId": "EMP001",
+    "flight": "AA101",
+    "status": "Available"
+  },
+  {
+    "name": "Jane Smith",
+    "role": "Pilot",
+    "employeeId": "EMP002",
+    "flight": "DL202",
+    "status": "In Flight"
+  },
+  {
+    "name": "Sara Connor",
+    "role": "Cabin Crew",
+    "employeeId": "EMP003",
+    "flight": "UA303",
+    "status": "Rest"
+  },
+  {
+    "name": "Alex Brown",
+    "role": "Flight Attendant",
+    "employeeId": "EMP004",
+    "flight": "BA404",
+    "status": "Available"
+  },
+  {
+    "name": "Emily White",
+    "role": "Co-Pilot",
+    "employeeId": "EMP005",
+    "flight": "AF505",
+    "status": "In Flight"
+  },
+  {
+    "name": "Michael Jordan",
+    "role": "Pilot",
+    "employeeId": "EMP006",
+    "flight": "LH606",
+    "status": "Available"
+  },
+  {
+    "name": "Samuel Lee",
+    "role": "Cabin Crew",
+    "employeeId": "EMP007",
+    "flight": "EK707",
+    "status": "Rest"
+  },
+  {
+    "name": "Laura Green",
+    "role": "Flight Attendant",
+    "employeeId": "EMP008",
+    "flight": "QF808",
+    "status": "Available"
+  },
+  {
+    "name": "Chris Brown",
+    "role": "Pilot",
+    "employeeId": "EMP009",
+    "flight": "IB909",
+    "status": "In Flight"
+  },
+  {
+    "name": "Kate Wilson",
+    "role": "Cabin Crew",
+    "employeeId": "EMP010",
+    "flight": "LA1001",
+    "status": "Available"
+  }
+]

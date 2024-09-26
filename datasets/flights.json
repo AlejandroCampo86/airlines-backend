@@ -1,0 +1,82 @@
+[
+  {
+    "number": "AA101",
+    "departure": "New York",
+    "destination": "Los Angeles",
+    "departureDate": "2024-10-01T08:30:00Z",
+    "arrivalDate": "2024-10-01T12:30:00Z",
+    "inventory": 120
+  },
+  {
+    "number": "DL202",
+    "departure": "San Francisco",
+    "destination": "Chicago",
+    "departureDate": "2024-10-02T09:45:00Z",
+    "arrivalDate": "2024-10-02T13:15:00Z",
+    "inventory": 90
+  },
+  {
+    "number": "UA303",
+    "departure": "Miami",
+    "destination": "Dallas",
+    "departureDate": "2024-10-03T11:00:00Z",
+    "arrivalDate": "2024-10-03T13:30:00Z",
+    "inventory": 150
+  },
+  {
+    "number": "BA404",
+    "departure": "London",
+    "destination": "New York",
+    "departureDate": "2024-10-04T16:00:00Z",
+    "arrivalDate": "2024-10-04T19:30:00Z",
+    "inventory": 200
+  },
+  {
+    "number": "AF505",
+    "departure": "Paris",
+    "destination": "Tokyo",
+    "departureDate": "2024-10-05T10:00:00Z",
+    "arrivalDate": "2024-10-05T23:00:00Z",
+    "inventory": 180
+  },
+  {
+    "number": "LH606",
+    "departure": "Frankfurt",
+    "destination": "San Francisco",
+    "departureDate": "2024-10-06T13:30:00Z",
+    "arrivalDate": "2024-10-06T19:00:00Z",
+    "inventory": 160
+  },
+  {
+    "number": "EK707",
+    "departure": "Dubai",
+    "destination": "Sydney",
+    "departureDate": "2024-10-07T06:00:00Z",
+    "arrivalDate": "2024-10-07T18:00:00Z",
+    "inventory": 140
+  },
+  {
+    "number": "QF808",
+    "departure": "Sydney",
+    "destination": "Los Angeles",
+    "departureDate": "2024-10-08T22:30:00Z",
+    "arrivalDate": "2024-10-08T14:00:00Z",
+    "inventory": 110
+  },
+  {
+    "number": "IB909",
+    "departure": "Madrid",
+    "destination": "Buenos Aires",
+    "departureDate": "2024-10-09T23:00:00Z",
+    "arrivalDate": "2024-10-10T09:00:00Z",
+    "inventory": 130
+  },
+  {
+    "number": "LA1001",
+    "departure": "Santiago",
+    "destination": "Mexico City",
+    "departureDate": "2024-10-10T15:00:00Z",
+    "arrivalDate": "2024-10-10T19:00:00Z",
+    "inventory": 100
+  }
+]
