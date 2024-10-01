@@ -17,6 +17,7 @@ mongoose.connect(dbURI, {
 
 
 // Routes
+app.use('/api/barsets', require('./routes/barsetRoutes'));
 app.use('/api/crew', require('./routes/crewRoutes'));
 app.use('/api/products', require('./routes/productRoutes'));
 app.use('/api/flights', require('./routes/flightRoutes'));

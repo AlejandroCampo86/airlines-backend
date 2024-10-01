@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Barset 1",
+    "type": "Trolley",
+    "homeBase": "Santo Domingo",
+    "stockStatus": "awaiting",
+    "stockPlan": "StockPlan A",
+    "dispatchDate": "2024-10-10",
+    "warehouse": "Warehouse A"
+  },
+  {
+    "name": "Barset 2",
+    "type": "Trolley",
+    "homeBase": "Miami",
+    "stockStatus": "stockChecked",
+    "stockPlan": "StockPlan B",
+    "dispatchDate": "2024-10-12",
+    "warehouse": "Warehouse B"
+  },
+  {
+    "name": "Barset 3",
+    "type": "Trolley",
+    "homeBase": "New York",
+    "stockStatus": "incomplete",
+    "stockPlan": "StockPlan C",
+    "dispatchDate": "2024-10-15",
+    "warehouse": "Warehouse C"
+  },
+  {
+    "name": "Barset 4",
+    "type": "Trolley",
+    "homeBase": "Los Angeles",
+    "stockStatus": "packed",
+    "stockPlan": "StockPlan D",
+    "dispatchDate": "2024-10-17",
+    "warehouse": "Warehouse D"
+  },
+  {
+    "name": "Barset 5",
+    "type": "Trolley",
+    "homeBase": "Madrid",
+    "stockStatus": "dispatched",
+    "stockPlan": "StockPlan E",
+    "dispatchDate": "2024-10-20",
+    "warehouse": "Warehouse E"
+  },
+  {
+    "name": "Barset 6",
+    "type": "Trolley",
+    "homeBase": "Paris",
+    "stockStatus": "awaiting",
+    "stockPlan": "StockPlan F",
+    "dispatchDate": "2024-10-25",
+    "warehouse": "Warehouse F"
+  },
+  {
+    "name": "Barset 7",
+    "type": "Trolley",
+    "homeBase": "London",
+    "stockStatus": "incomplete",
+    "stockPlan": "StockPlan G",
+    "dispatchDate": "2024-10-27",
+    "warehouse": "Warehouse G"
+  },
+  {
+    "name": "Barset 8",
+    "type": "Trolley",
+    "homeBase": "Berlin",
+    "stockStatus": "packed",
+    "stockPlan": "StockPlan H",
+    "dispatchDate": "2024-10-29",
+    "warehouse": "Warehouse H"
+  },
+  {
+    "name": "Barset 9",
+    "type": "Trolley",
+    "homeBase": "Tokyo",
+    "stockStatus": "dispatched",
+    "stockPlan": "StockPlan I",
+    "dispatchDate": "2024-11-01",
+    "warehouse": "Warehouse I"
+  },
+  {
+    "name": "Barset 10",
+    "type": "Trolley",
+    "homeBase": "Sydney",
+    "stockStatus": "stockChecked",
+    "stockPlan": "StockPlan J",
+    "dispatchDate": "2024-11-03",
+    "warehouse": "Warehouse J"
+  }
+]
